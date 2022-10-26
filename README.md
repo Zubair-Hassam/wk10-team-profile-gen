@@ -29,5 +29,6 @@ WHEN I decide to finish building my team
 
 ## Deployed Links
 [GitHub Website](https://github.com/Zubair-Hassam/wk10-team-profile-gen).
-[Homework Site](https://zubair-hassam.github.io/wk10-team-profile-gen/)
+[Homework Site](https://zubair-hassam.github.io/wk10-team-profile-gen/).
+[Tutorial Video](https://youtu.be/R_gCOVX6HvE).
 
