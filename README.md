@@ -23,8 +23,11 @@ THEN I am prompted to enter the engineer’s name, ID, email, and GitHub usernam
 WHEN I select the intern option
 THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu
 WHEN I decide to finish building my team
-THEN I exit the application, and the HTML is generated
+
+## Screenshots of site 
+![Screenshot of website 1](./Info/Screen%20Shot%202022-10-26%20at%2010.25.07%20am.png)
 
 ## Deployed Links
 [GitHub Website](https://github.com/Zubair-Hassam/wk10-team-profile-gen).
-[Homework Site]()
+[Homework Site](https://zubair-hassam.github.io/wk10-team-profile-gen/)
+
