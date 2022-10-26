@@ -26,3 +26,5 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 ## Deployed Links
+[GitHub Website](https://github.com/Zubair-Hassam/wk10-team-profile-gen).
+[Homework Site]()
